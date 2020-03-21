@@ -1,5 +1,5 @@
 variables:
-  host: cdpartsun2-dev.azurewebsites.net
+  host: cdpartsun2-prod.azurewebsites.net
 
 jobs:
 - job: jmeter
